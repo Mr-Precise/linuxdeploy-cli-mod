@@ -1,7 +1,11 @@
 ### Linux Deploy CLI
 # ＲＥＮＥＷＥＤ
 
+<br>
+
 <p align="center"><a href="https://github.com/MilkyDeveloper/linuxdeploy-cli/projects">Linux Deploy Renewed is a fork of Linux Deploy with extra features and updated Linux distributions</a></p>
+
+<br>
 
 Copyright (C) 2021 MilkyDeveloper, GPLv3
 
