@@ -1,4 +1,4 @@
-<img src="https://unpkg.com/ionicons/dist/svg/logo-tux.svg" allign="right"></img>
+<h2 allign="right">◤&#128598;◢</h2>
 
 ### Linux Deploy CLI
 # ＲＥＮＥＷＥＤ
