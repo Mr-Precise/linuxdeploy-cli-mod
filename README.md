@@ -1,6 +1,8 @@
 ### Linux Deploy CLI
 # ＲＥＮＥＷＥＤ
 
+<p align="center"><a href="https://github.com/MilkyDeveloper/linuxdeploy-cli/projects">Linux Deploy Renewed is a fork of Linux Deploy with extra features and updated Linux distributions</a></p>
+
 Copyright (C) 2021 MilkyDeveloper, GPLv3
 
 A command line application for installing and running GNU/Linux distributions in the chroot environment.
