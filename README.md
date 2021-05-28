@@ -1,4 +1,4 @@
-<p allign="right">◤&#128598;◢</p>
+<p align="right">◤&#128598;◢</p>
 
 ### Linux Deploy CLI
 # ＲＥＮＥＷＥＤ
